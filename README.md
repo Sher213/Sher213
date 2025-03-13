@@ -1,5 +1,5 @@
 👋 Hey there! I'm Ali
-🚀 AI & Cloud Enthusiast | DevOps | Full-Stack Developer
+🚀 AI & Cloud Enthusiast | Machine Learning | Full-Stack Developer
 
 I'm a 5th-year Computer Science student at Toronto Metropolitan University, passionate about building scalable AI and cloud solutions. My expertise includes CI/CD pipeline design, cloud environment management, and machine learning development.
 
@@ -10,7 +10,7 @@ Computer Vision & Audio Recognition 📷🔊 – Exploring Java-based Backend de
 💡 Tech Stack
 Languages: Python, Javascript, Rust, SQL, R, Java, PowerShell, Shell Scripting
 Frameworks & Tools: TensorFlow, Scikit-learn, Databricks, Power BI, MLflow
-Databases: Azure SQL, Synapse, Data Warehousing
+Databases: PostgreSQL, Supabase, MongoDB, Oracle, Data Lakes
 🌱 Currently Learning
 Full stack development and data mining for businesses
 Expanding my Android development skills with Java & computer vision
