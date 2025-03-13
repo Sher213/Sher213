@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hey there! I'm Ali
+🚀 AI & Cloud Enthusiast | DevOps | Full-Stack Developer
 
-<!--
-**Sher213/Sher213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 5th-year Computer Science student at Toronto Metropolitan University, passionate about building scalable AI and cloud solutions. My expertise includes CI/CD pipeline design, cloud environment management, and machine learning development.
 
-Here are some ideas to get you started:
+🔥 What I Do
+Machine Learning & AI 🤖 – Worked on stock price prediction using LSTMs & FinBERT for sentiment analysis.
+Full-Stack Development 🛠️ – Building JobHelp, an app that simplifies job searching with AI-powered resume and cover letter generation.
+Computer Vision & Audio Recognition 📷🔊 – Exploring Java-based Backend development for news aggregation.
+💡 Tech Stack
+Languages: Python, Javascript, Rust, SQL, R, Java, PowerShell, Shell Scripting
+Frameworks & Tools: TensorFlow, Scikit-learn, Databricks, Power BI, MLflow
+Databases: Azure SQL, Synapse, Data Warehousing
+🌱 Currently Learning
+Full stack development and data mining for businesses
+Expanding my Android development skills with Java & computer vision
+Creating Data Science & AI tools and businesses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my work!
+- https://asher-portfolio-website.netlify.app/
+- https://jobhelp.netlify.app/
+- https://verinew-check.netlify.app/
+
+- I also post on Linkedin: https://www.linkedin.com/in/ali-sher
