@@ -1,5 +1,7 @@
 👋 Hey there! I'm Ali\
+\
 🚀 AI & Cloud Enthusiast | Machine Learning | Full-Stack Developer\
+\
 I'm a 5th-year Computer Science student at Toronto Metropolitan University, passionate about building scalable AI and cloud solutions. My expertise includes CI/CD pipeline design, cloud environment management, and machine learning development.\
 ##
 🔥 What I Do\
