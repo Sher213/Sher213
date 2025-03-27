@@ -2,12 +2,12 @@
 \
 🚀 AI & Cloud Enthusiast | Machine Learning | Full-Stack Developer\
 \
-I'm a 5th-year Computer Science student at Toronto Metropolitan University, passionate about building scalable AI and cloud solutions. My expertise includes CI/CD pipeline design, cloud environment management, and machine learning development.
+I'm a 5th-year Computer Science student at Toronto Metropolitan University, passionate about building scalable AI and cloud solutions. My expertise includes Data Analytics, cloud environment management, and machine learning development.
 ##
 🔥 What I Do\
 Machine Learning & AI 🤖 – Worked on stock price prediction using LSTMs & FinBERT for sentiment analysis.\
-Full-Stack Development 🛠️ – Building JobHelp, an app that simplifies job searching with AI-powered resume and cover letter generation.\
-Computer Vision & Audio Recognition 📷🔊 – Exploring Java-based Backend development for news aggregation.
+Full-Stack Development 🛠️ – Building JobHelp, an app that simplifies job searching with AI-powered resume and cover letter generation and Exploring Java-based Backend development for news aggregation.\
+Computer Vision & Audio Recognition 📷🔊 – Creating tools to enable turn regular devices into assitive technologies.
 ##
 💡 Tech Stack\
 Languages: Python, Javascript, Rust, SQL, R, Java, PowerShell, Shell Scripting\
