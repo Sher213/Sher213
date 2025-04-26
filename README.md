@@ -25,5 +25,6 @@ Check out my work!
 - A News Aggregation Sentiment Analysis and Fake News Detection Web App: https://verinew-check.netlify.app/
 - An AI Formatter Tool for CSVs: https://csv-formatter-mht8.vercel.app/
 - A Machine Learning App for Haircut Suggestions: https://nextlook.netlify.app/
+- A Word Etymology Viewer: https://etymology-viewer-sooty.vercel.app/
 ##
 - I also post on Linkedin: https://www.linkedin.com/in/ali-sher
