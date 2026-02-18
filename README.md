@@ -15,7 +15,6 @@ Frameworks & Tools: TensorFlow, Scikit-learn, Databricks, Power BI, MLflow\
 Databases: PostgreSQL, Supabase, MongoDB, Oracle, Data Lakes
 ##
 🌱 Currently Learning\
-Full stack development and data mining for businesses\
 Expanding my Android development skills with Java & computer vision\
 Creating AI-based Data Science tools
 
