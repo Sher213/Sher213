@@ -2,7 +2,7 @@
 
 ### AI Engineer · Data Engineer · Software Engineer · AI Researcher
 
-I'm a Computer Science graduate from **Toronto Metropolitan University** focused on building practical AI systems, scalable data infrastructure, and software that turns complex technical problems into usable products.
+I'm a Computer Science graduate student at**MIT** focused on building practical AI systems, scalable data infrastructure, and software that turns complex technical problems into usable products.
 
 My work sits at the intersection of **AI engineering, data engineering, machine learning, cloud systems, and mathematical research**.
 
